@@ -1,0 +1,15 @@
+.country-container{
+    border: 1px solid black;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.country-container img{
+    height:100px;
+    width:200px;
+}
+
+.country-container:hover{
+    border-radius: 10px;
+    background-color:azure;
+}
